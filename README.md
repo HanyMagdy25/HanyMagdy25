@@ -1,4 +1,4 @@
-### Hi  👋 I'am Hany Magdy
+### Hi  👋 I'm Hany Magdy
 
 <!--
 **HanyMagdy25/HanyMagdy25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
