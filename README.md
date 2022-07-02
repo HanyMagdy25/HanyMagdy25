@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 <img src="https://user-images.githubusercontent.com/68616022/176979039-95fa54e4-589a-4579-9c1a-e1cb6d9164d2.png" width="100" height="100" />
 <img src="https://user-images.githubusercontent.com/68616022/176979150-02909a91-3ac7-4a0c-9526-17c308e92102.png" width="100" height="100" />
 <img src="https://user-images.githubusercontent.com/68616022/176979176-a0c207f2-4c98-4d28-9b57-ab041f6dae96.png" width="100" height="100" />
-<img src="https://user-images.githubusercontent.com/68616022/176979039-95fa54e4-589a-4579-9c1a-e1cb6d9164d2.png" width="100" height="100" />
+<img src="https://user-images.githubusercontent.com/68616022/176979218-bc140971-fe1a-4a08-80bc-45225693d8f6.png" width="100" height="100" />
