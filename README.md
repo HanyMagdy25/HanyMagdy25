@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <p>I am a dedicated and skilled Front-
 End Developer with a strong
 specialization in React JS and Next.js.
-With three years of hands-on
+With four years of hands-on
 experience, I am seeking a
 challenging opportunity at a
 reputable company where I can
