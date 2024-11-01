@@ -29,6 +29,10 @@ technical proficiency. I am eager to
 contribute to a dynamic team and
 play a pivotal role in the success of
 cutting-edge web projects.</p>
+<h2>Education</h2>
+<p><strong>Mansoura University</strong><br>
+Bachelor's degree in Computer Science<br>
+Sep 2017 – Jun 2021 | Mansoura, Egypt</p>
 <h2>Skills</h2>
 <div style="display: flex; gap: 10px;">
   <img src="https://user-images.githubusercontent.com/68616022/174585879-8a674b97-8dea-4aac-94f2-375b063cbb7f.png" width="100" height="100" />
